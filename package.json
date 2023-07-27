@@ -1,0 +1,9 @@
+{
+  "name": "@khrigo/skills-list",
+  "description": "List of all LinkedIn skills.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/khrigo/skills-list",
+  "repository": "git://github.com/khrigo/skills-list.git",
+  "author": "Ihor Khrypchenko <me@khrigo.com>",
+  "license": "MIT"
+}

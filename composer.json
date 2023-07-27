@@ -1,0 +1,15 @@
+{
+    "name": "khrigo/skills-list",
+    "type": "library",
+    "description": "List of all LinkedIn skills.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ihor Khrypchenko",
+            "email": "me@khrigo.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0 || ^8.0"
+    }
+}
